@@ -1,0 +1,26 @@
+# Project
+.git
+words.txt
+zones.txt
+domains.txt
+LICENSE
+README.md
+
+# OS
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+.history/
+*.vsix
+.history
+.ionide

@@ -1,0 +1,4 @@
+google
+foo
+bar
+nonexistentdomain
